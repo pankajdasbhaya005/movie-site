@@ -30,4 +30,7 @@ No external APIs were used.
 All movie data is manually added through a separate JavaScript file.
 
 ---
+## 👨‍💻 Author
 
+Pankaj Dasbhaya  
+GitHub: https://github.com/pankajdasbhaya005
