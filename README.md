@@ -15,7 +15,6 @@ This project was created for practice purposes to improve frontend development s
 - 🎭 Category filter (All, Sci-Fi, Drama, Action)
 - 📄 Separate movie detail page
 - 🔗 Official streaming platform link on detail page
-- 🌙 Dark themed modern UI
 - 📱 Responsive layout
 
 ---
